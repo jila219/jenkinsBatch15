@@ -1,0 +1,10 @@
+Method-overriding:
+   Method overriding happens when same method with deffernt implementation exicts in parent
+   and child class.
+Why should we override a method:
+   1) Flexibity
+   when we inherit from a class and if we don't like some methods we can modify them.
+Rules:
+   1) privite methods and constructor can't be overridden because they don't prticipate in inheritance.
+   2) if we a want to overide somthing we must rereate thatexact method inside the child class and can have
+   diffrent implementations only access modifier can be differnet. it can have more visibility then the
